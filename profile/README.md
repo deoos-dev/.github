@@ -2,7 +2,9 @@
 
 **Durable execution on object storage.**
 
-Write ordinary functions. Completed steps are remembered; unfinished steps retry after failure. Keep workflow state in your own bucket — S3, Azure Blob, GCS, or R2 — with no database to run.
+Small, simple, and safe.
+
+Write ordinary functions. Completed steps are remembered; unfinished steps retry after failure. Keep workflow state in your own bucket — S3, Azure Blob, GCS, R2, or self-hosted RustFS — with no database to run.
 
 For humans and agents that want:
 
