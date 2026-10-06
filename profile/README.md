@@ -15,4 +15,3 @@ For humans and agents that want:
 ## Links
 
 - [deoos.dev](https://deoos.dev) — product + early access
-- [Derek Hecksher](https://hckshr.com) — maker
