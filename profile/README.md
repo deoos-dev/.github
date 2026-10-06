@@ -4,6 +4,8 @@
 
 Write ordinary functions. Completed steps are remembered; unfinished steps retry after failure. Keep workflow state in your own bucket — S3, Azure Blob, GCS, or R2 — with no database to run.
 
+For humans and agents that want:
+
 - A small Rust core with Python and TypeScript SDKs
 - Durable steps, retries, leases, and idempotency keys
 - Timers, signals, cancellation, and schedules
