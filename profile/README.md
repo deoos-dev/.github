@@ -13,7 +13,3 @@ For humans and agents that want:
 - Timers, signals, cancellation, and schedules
 - A CLI and a small web UI
 - Library mode inside your app, or one small server your workers talk to
-
-## Links
-
-- [deoos.dev](https://deoos.dev) — product + early access
